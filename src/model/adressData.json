@@ -1,0 +1,5 @@
+{
+    "Döviz ceviri ve sorgulama": "https://api.frankfurter.app/latest",
+    "FBI arananlar listesi": "https://api.fbi.gov/wanted/v1/list",
+    "Chuck Norris veciz sözleri icin API": "https://api.chucknorris.io/jokes/random"
+}
